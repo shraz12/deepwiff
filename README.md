@@ -6,3 +6,5 @@ https://docs.google.com/document/d/1EbIS1Qd1ht6PClJF67GnhMw3nhVPJDAOouNu-gITCz0/
 
 Check out our poster here:
 https://drive.google.com/file/d/1YvEcKCGjSRdRtEivrcvCy35TQInK5VCi/view?usp=sharing
+
+Get training data here: https://drive.google.com/drive/folders/1Dq3EZYqBnYfOU1KOg_VQHLqHZkEoEjxY?usp=sharing
